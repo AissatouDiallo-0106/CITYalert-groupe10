@@ -12,3 +12,4 @@ final class ValidationException extends AppException
     }
     /** @return array<string,string> */
     public function errors(): array { return $this->errors; }
+}
