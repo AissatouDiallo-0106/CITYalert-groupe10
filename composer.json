@@ -1,0 +1,7 @@
+{
+  "name": "groupe/cityalert",
+  "description": "CityAlert — Plateforme de signalement citoyen (PHP POO/MVC, sans framework)",
+  "type": "project",
+  "autoload": { "psr-4": { "App\\": "app/" } },
+  "require": { "php": ">=8.1" }
+}
