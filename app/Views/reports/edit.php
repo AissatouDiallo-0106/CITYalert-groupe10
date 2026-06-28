@@ -1,3 +1,4 @@
+<?php $errors = $errors ?? []; ?>
 <a href="<?= url('reports/' . $report->getId()) ?>" class="back-link"><i class="bi bi-arrow-left"></i> Retour</a>
 <div class="row justify-content-center">
   <div class="col-lg-7">
